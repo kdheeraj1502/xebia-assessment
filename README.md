@@ -1,4 +1,4 @@
-# article-service
+# xebia-assessment
 An application to store articles on technologies 
 
 #H2 Databse
