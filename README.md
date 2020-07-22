@@ -1,4 +1,4 @@
-# article-service
+# xebia-assessment
 An application to store articles on technologies 
 
 #H2 Databse
@@ -63,6 +63,10 @@ request body to save details in machine
 	"tags" :["spring", "java","hibernate"]
 }
 ```
+## postman request collection
+````
+https://www.getpostman.com/collections/9ccf580b6b5e7d146dd2
+````
 ## Running the tests
 
 
